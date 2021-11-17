@@ -36,7 +36,7 @@ class Lab14A {
 }
 
 class BuildingBlueprint {
-  private DecimalFormat df = new DecimalFormat("0.##");
+  private DecimalFormat df = new DecimalFormat("0.0");
 
   private int stories, apartments;
   private float occupancy;
